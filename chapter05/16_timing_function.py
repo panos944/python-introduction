@@ -25,7 +25,7 @@ def main():
     Main function to demonstrate the get_time function.
     """
     # Call the get_time function with n = 1,000,000 and print the result
-    print(get_time(1000000000))
+    print(get_time(10000000))
 
 if __name__ == "__main__":
     main()
